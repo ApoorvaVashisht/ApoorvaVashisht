@@ -1,9 +1,9 @@
 *"She turned her can'ts into cans and her dreams into plans."*  
 
 🚀 **Skills**  
-- CAPL  
 - Python  
 - Embedded C/C++  
+- CAPL
 - CANoe  
 - OpenCV  
 - OBD Diagnose  
